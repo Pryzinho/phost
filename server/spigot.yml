@@ -34,7 +34,7 @@ settings:
   moved-too-quickly-multiplier: 10.0
 messages:
   whitelist: You are not whitelisted on this server!
-  unknown-command: Sistema>EsseComandoNaoExiste.
+  unknown-command: Sistema > Esse comando nao existe.
   server-full: The server is full!
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
