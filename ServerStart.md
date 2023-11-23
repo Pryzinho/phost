@@ -1,3 +1,10 @@
-Spigot start
+1. Download dependencies.
+   Cmd: `sudo bash dependencies.sh`
 
-Cmd: `java -Xms4G -Xmx4G -Dfile.encoding=UTF-8 -jar spigot-1.17.1.jar -nogui`
+2. Start Paper
+
+Cmd: `java -Xms8G -Xmx8G -Dfile.encoding=UTF-8 -jar paper.jar -nogui`
+
+3. Start Playit.gg
+
+Cmd: `playit`
